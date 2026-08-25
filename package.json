@@ -1,0 +1,22 @@
+{
+  "name": "bockchain-mrv-emissions-reporting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.15",
+    "@types/node": "^22.20.1",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.17.0",
+    "hardhat": "^3.14.0",
+    "tsx": "^4.23.12",
+    "typescript": "~6.0.3"
+  }
+}
